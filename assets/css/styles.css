@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300;400&display=swap");
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: Poppins;
+  color: aliceblue;
+  padding-top: 100px;
+  padding-left: 555px;
+}
+
+p {
+  font-family: Poppins;
+  font-weight: 600;
+  color: azure;
+  padding-left: 645px;
+}
+
+.reload {
+  font-family: Poppins;
+  font-weight: 100;
+  color: azure;
+  padding-left: 628px;
+}
+
+.calculator {
+  width: 500px;
+  padding-bottom: 9px;
+  padding-left: 445px;
+}
